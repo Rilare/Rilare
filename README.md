@@ -4,7 +4,7 @@
 
 <div>
   <a href="https://github.com/rilare">
-  <img height="180cm" src="https://github-readme-stats.versel.app/api?username=rilare&show_icons=true&theme=dracula&include_a11_commits=true&count_private=true"/>
+  <img height="180cm" src="https://github-readme-stats.versel.app/api?username=rilare&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
   <img height="180cm" src="https://github-readme-stats.vercel.app/api/top-langs/?username=rilare&layout=compact&langs_count=16&theme=dracula"/>
 </div>
 <div style="display: inline_block"><br>
